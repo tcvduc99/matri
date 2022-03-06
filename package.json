@@ -1,9 +1,21 @@
 {
-    "name": "@tcvduc99/matrix",
-    "repository": {
-        "url": "git://github.com/tcvduc99/matrix"
-    },
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com"
-    }
+  "name": "@tcvduc99/matrix",
+  "repository": {
+    "url": "git://github.com/tcvduc99/matrix.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "description": "This is a simple npm package",
+  "bugs": {
+    "url": "https://github.com/tcvduc99/matrix/issues"
+  },
+  "homepage": "https://github.com/tcvduc99/matrix#readme",
+  "version": "1.0.0",
+  "main": "hello-package.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
 }

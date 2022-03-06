@@ -1,6 +1,9 @@
 {
     "name": "@tcvduc99/matrix",
     "repository": {
-        "url": "https://github.com/tcvduc99/matrix"
+        "url": "git://github.com/tcvduc99/matrix"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
     }
 }

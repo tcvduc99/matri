@@ -4,7 +4,7 @@
     "url": "git://github.com/tcvduc99/matrix.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@tcvduc99:registry": "https://npm.pkg.github.com"
   },
   "description": "This is a simple npm package",
   "bugs": {

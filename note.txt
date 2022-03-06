@@ -1,0 +1,36 @@
+I. keywords
++ PAT: Personal Access Token 
+
+
+
+
+II. Steps 
++ step 1: npm login
++ step 2: login with npm account
+
+
+III. Info
++ Github account 
+- email: caovanducs@gmail.com
+- password: 0908011888Duc
+- username: tcvduc
+- personal access token: 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
+
+- email: tcvduc.io@gmail.com
+- password: 0908011888Duc
+- username: tcvduc99
+- personal access token: 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
+
+
++ npm account 
+- email: tcvduc.io@gmail.com
+- password: \ . X :;123
+- username: tcvduc
+- repository: git://github.com/my-org/test.git
+
+
+- email: caovanducs@gmail.com
+- password: \ . X :;123
+- username: duccao
+
+- xlG4qH8WOep+Kc4p+IvEhR/1Rmk=

@@ -8,4 +8,4 @@ This is a simple npm package
 
 # Usage
 
-const {hellonpmpackage} = require('@tcvduc/matrix')
+`const {hellonpmpackage} = require('@tcvduc/matrix')`

@@ -1,21 +1,19 @@
 {
   "name": "generate-matrix",
-  "repository": {
-    "url": "git://github.com/tcvduc99/matrix.git"
-  },
-  "publishConfig": {
-    "@tcvduc99:registry": "https://npm.pkg.github.com"
-  },
-  "description": "Package for matrix",
-  "bugs": {
-    "url": "https://github.com/tcvduc99/matrix/issues"
-  },
-  "homepage": "https://github.com/tcvduc99/matrix#readme",
   "version": "1.0.0",
-  "main": "hello-package.js",
+  "description": "- A package to generate matrix",
+  "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcvduc99/generate-matrix.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcvduc99/generate-matrix/issues"
+  },
+  "homepage": "https://github.com/tcvduc99/generate-matrix#readme"
 }

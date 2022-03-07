@@ -1,11 +1,29 @@
-# hello npm package
+## Generate Matrix
 
-This is a simple npm package
+- A package to generate matrix
 
-# Installation
+## Installation
 
-`npm install @tcvduc99/matrix`
+`npm install generate-matrix`
 
-# Usage
+## Quick Start
 
-`const {hellonpmpackage} = require('@tcvduc/matrix')`
+    const generateMatrix = require('generate-matrix');
+
+    const config = {
+      rows: 3,
+      columns: 3,
+      from: 0,
+      to: 9
+    }
+
+    console.log(generateMatrix(config));
+
+## Configuration
+
+    const config = {
+      rows: 3, // Number of row
+      columns: 3, // Number of column
+      from: 0, // Start value
+      to: 9 // End value
+    }

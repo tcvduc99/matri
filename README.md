@@ -1,6 +1,6 @@
-## Generate Matrix
+## Matrix
 
-- A package to generate matrix
+- A matrix package
 
 ## Installation
 
@@ -8,7 +8,7 @@
 
 ## Quick Start
 
-    const { generateMatrix } = require('matri');
+    const { generateMatrix , advanceLogMatrix } = require('matri');
 
     const config = {
       rows: 3,
@@ -17,7 +17,7 @@
       to: 9
     }
 
-    console.log(generateMatrix(config));
+    advanceLogMatrix(generateMatrix(config));
 
 ## Configuration
 

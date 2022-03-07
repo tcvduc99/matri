@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tcvduc99/generate-matrix.git"
+    "url": "git+https://github.com/tcvduc99/matri.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tcvduc99/generate-matrix/issues"
+    "url": "https://github.com/tcvduc99/matri/issues"
   },
-  "homepage": "https://github.com/tcvduc99/generate-matrix#readme"
+  "homepage": "https://github.com/tcvduc99/matri#readme"
 }

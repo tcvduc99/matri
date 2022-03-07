@@ -1,10 +1,10 @@
-## Matrix
+## Matri
 
 - A matrix package
 
 ## Installation
 
-`npm install generate-matrix`
+`npm install matri`
 
 ## Quick Start
 

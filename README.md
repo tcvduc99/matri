@@ -8,7 +8,7 @@
 
 ## Quick Start
 
-    const generateMatrix = require('generate-matrix');
+    const { generateMatrix } = require('generate-matrix');
 
     const config = {
       rows: 3,

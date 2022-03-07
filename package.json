@@ -1,7 +1,7 @@
 {
-  "name": "generate-matrix",
+  "name": "matri",
   "version": "1.0.0",
-  "description": "- A package to generate matrix",
+  "description": "- A matrix package",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"

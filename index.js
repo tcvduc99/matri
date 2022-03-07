@@ -64,4 +64,6 @@ function generateMatrix(config) {
   return ret;
 }
 
-module.exports = generateMatrix;
+module.exports = {
+  generateMatrix,
+};

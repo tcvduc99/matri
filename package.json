@@ -1,6 +1,6 @@
 {
-  "name": "matri",
-  "version": "1.0.3",
+  "name": "matrixx",
+  "version": "1.0.4",
   "description": "- A matrix package",
   "main": "index.js",
   "scripts": {
